@@ -118,7 +118,7 @@ document.getElementById("btn").addEventListener("click", function() {
 ```
 
 ### Exemplo Prático
-```
+```javascript
 <button id="btn">Clique-me</button>
 <p id="titulo">Texto inicial</p>
 
