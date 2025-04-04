@@ -99,7 +99,7 @@ const idade = 30;  // Variável constante
 console.log(nome, idade); //João 30
 
 nome = "Pedro"; // Variável reatribuída
-console.log(nome); //Pedro
+console.log(nome); // Pedro
 ```
 
 ### Funções
@@ -108,7 +108,7 @@ function saudacao(nome) {
     return `Olá, ${nome}!`;
 }
 
-console.log(saudacao("Maria")); //Maria
+console.log(saudacao("Maria")); // Maria
 ```
 
 ### Evento
