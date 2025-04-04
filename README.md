@@ -1,5 +1,9 @@
 # Cheat Sheet: HTML, CSS, JavaScript e Conceitos Gerais
 
+O repositório atual, denominado Cheat Sheet, foi solicitado pelo professor Iskailer com o objetivo de fornecer um recurso educativo prático para os alunos. O conceito de Cheat Sheet refere-se a uma "folha de cola", um guia resumido com informações chave, fórmulas ou processos essenciais, apresentados de forma concisa e de fácil acesso.
+
+Neste caso, o repositório serve como uma ferramenta de apoio, permitindo que os estudantes consultem rapidamente os tópicos mais relevantes para o aprendizado. Embora seja uma excelente referência para revisar e reforçar o conhecimento.
+
 # HTML
 
 ## Estrutura Básica
